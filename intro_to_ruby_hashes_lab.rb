@@ -13,7 +13,7 @@ def monopoly_with_third_tier
   {
    :pieces => 4,
    :rent_in_dollars =>{:name =>2, :mom =>3, :dad =>3 , :me =>4 },
-   :names
+   :names => 
   
   }
   }

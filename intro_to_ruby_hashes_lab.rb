@@ -9,8 +9,9 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  monopoly = {:railroads => {:pieces => 4,
-                             :rent_in_dollars =>{:1 =>2, :2 =>3, :3 =>3 , :4=>4 } 
+  monopoly = {:railroads => {
+   :pieces => 4,
+   :rent_in_dollars =>{:name =>2, :mom =>3, :dad =>3 , :me =>4 } 
     
   }
 	monopoly
